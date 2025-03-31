@@ -4,7 +4,6 @@
 - 💻 Built projects like an inventory management system, an Instagram clone, and a financial investing advice platform for hackathons.</br>
 - ⚡ Skilled in Python, C, C++, Java, Spring Boot, HTML, and CSS, with a growing interest in machine learning and data science.</br>
 - 🎸 In my free time, I love swimming, playing the guitar, playing football, playing table tennis, and sketching.</br>
-- 🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/yashbindal23/]
 
   
 ## 🌐 Socials:
